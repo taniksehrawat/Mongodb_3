@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-catalog",
+  "version": "1.0.0",
+  "description": "E-commerce Catalog with Nested Document Structure using MongoDB and Mongoose",
+  "main": "insert.js",
+  "scripts": {
+    "insert": "node insert.js",
+    "query": "node queries.js"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  }
+}
